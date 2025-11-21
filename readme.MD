@@ -34,4 +34,8 @@ Dopracować stronę połączenia się z bazą danych MySql
 Zrobić wysyłanie danych do bazy danych z jakąś częstotliwośćią
 </li>
 
+<li>
+Zrobić drag and drop z listy danych do pobierania i tworzenie wykresu który użytkownik może wybrać dla danej i aktualizowanie w wykresu z jakąś częstotliwośćia
+</li>
+
 </ul>
