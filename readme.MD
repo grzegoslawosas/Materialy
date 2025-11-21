@@ -13,13 +13,25 @@ https://github.com/thomas-v2/S7CommPlusDriver
 
 <h1>To do:</h1>
 <ul>
+
 <li>
 Zrobić obsługiwanie stringów i innych zmiennych z plc
 </li>
+
 <li>
 Naprawić odczytywanie wartośći double
 </li>
+
 <li>
 Zrobić zapisywanie current app settings do pliku i odczytywanie go w czasie otwierania projektu
 </li>
+
+<li>
+Dopracować stronę połączenia się z bazą danych MySql
+</li>
+
+<li>
+Zrobić wysyłanie danych do bazy danych z jakąś częstotliwośćią
+</li>
+
 </ul>
