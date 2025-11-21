@@ -19,4 +19,7 @@ Zrobić obsługiwanie stringów i innych zmiennych z plc
 <li>
 Naprawić odczytywanie wartośći double
 </li>
+<li>
+Zrobić zapisywanie current app settings do pliku i odczytywanie go w czasie otwierania projektu
+</li>
 </ul>
