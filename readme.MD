@@ -42,4 +42,8 @@ Zrobić drag and drop z listy danych do pobierania i tworzenie wykresu który u�
 Zrobić ładne gui dla programu
 </li>
 
+<li>
+Zrobić try i catch dla części programu które mogą się wykrzaczyć
+</li>
+
 </ul>
