@@ -38,4 +38,8 @@ Zrobić wysyłanie danych do bazy danych z jakąś częstotliwośćią
 Zrobić drag and drop z listy danych do pobierania i tworzenie wykresu który użytkownik może wybrać dla danej i aktualizowanie w wykresu z jakąś częstotliwośćia
 </li>
 
+<li>
+Zrobić ładne gui dla programu
+</li>
+
 </ul>
